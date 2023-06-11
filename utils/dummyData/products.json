@@ -1,0 +1,67 @@
+[
+  {
+    "departure_city": "giza",
+    "arrival_city": "cairo",
+    "num_passenger": 1,
+	"return_date":"1682938881645" ,
+    "cabin_class": "economy",
+    "paymentMethodType": "cash",
+    "departure_date": {
+      "$date": {
+        "$numberLong": "1682938881645"
+      }
+    }
+  },
+  {
+    "departure_city": "giza",
+    "arrival_city": "cairo",
+    "num_passenger": 1,
+	"return_date":"1682938881645" ,
+    "cabin_class": "economy",
+    "paymentMethodType": "cash",
+    "departure_date": {
+      "$date": {
+        "$numberLong": "1682938881645"
+      }
+    }
+  },
+  {
+    "departure_city": "giza",
+    "arrival_city": "cairo",
+    "num_passenger": 1,
+	"return_date":"1682938881645" ,
+    "cabin_class": "economy",
+    "paymentMethodType": "cash",
+    "departure_date": {
+      "$date": {
+        "$numberLong": "1682938881645"
+      }
+    }
+  },
+  {
+    "departure_city": "giza",
+    "arrival_city": "cairo",
+    "num_passenger": 1,
+	"return_date":"1682938881645" ,
+    "cabin_class": "economy",
+    "paymentMethodType": "cash",
+    "departure_date": {
+      "$date": {
+        "$numberLong": "1682938881645"
+      }
+    }
+  },
+  {
+    "departure_city": "giza",
+    "arrival_city": "cairo",
+    "num_passenger": 1,
+	"return_date":"1682938881645" ,
+    "cabin_class": "economy",
+    "paymentMethodType": "cash",
+    "departure_date": {
+      "$date": {
+        "$numberLong": "1682938881645"
+      }
+    }
+  }
+  ]
